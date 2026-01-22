@@ -1,148 +1,173 @@
-## 🧠 AI Customer Retention Intelligence — Explainable AI + GenAI System
+# 🧠 AI Customer Retention Intelligence  
+### Explainable AI + Generative AI Decision System
 
-A production-grade AI web application that identifies customer churn risk, explains why a customer may leave, and recommends personalized retention actions using Explainable AI logic and Generative AI.
+A **production-grade AI web application** that identifies customer churn risk, explains *why* a customer may leave, and recommends **personalized retention actions** using **Explainable AI logic** and **Generative AI (Groq LLM)**.
 
-This project demonstrates how real businesses use AI — not just predictions, but reasoning, decisions, and customer communication — all inside a premium, recruiter-friendly dashboard.
+This project demonstrates **real-world AI usage** — not just prediction, but **reasoning, decision-making, and customer communication** — all inside a **premium, recruiter-friendly dashboard**.
 
-# 🚀 Live Application
+---
 
-👉 https://ai-customer-retention-intelligence-rsnzxmesbuwsury9dguevx.streamlit.app/
+## 🚀 Live Application
+
+👉 **https://ai-customer-retention-intelligence-rsnzxmesbuwsury9dguevx.streamlit.app/**
+
+---
 
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/home.png" width="700"/>
-  <img src="screenshots/analysis.png" width="700"/>
-  <img src="screenshots/message.png" width="700"/>
+  <img src="screenshots/home.png" width="800"/>
+  <br/><br/>
+  <img src="screenshots/results.png" width="800"/>
+  <br/><br/>
+  <img src="screenshots/analysis.png" width="800"/>
 </p>
 
+---
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 
-User enters customer details via a premium Streamlit UI
+1️⃣ User enters customer details via a **premium Streamlit UI**  
+2️⃣ **Explainable AI engine** computes churn risk score  
+3️⃣ Risk is classified as **Low / Medium / High**  
+4️⃣ **Generative AI (Groq LLM)** produces:
+   - Human-readable churn explanation  
+   - Strategic retention recommendation  
+   - Professional customer-facing message  
+5️⃣ Results are displayed in a **clean, expandable dashboard**
 
-Rule-based Explainable AI engine computes churn risk score
+---
 
-Risk level is classified (Low / Medium / High)
+## ✨ Project Highlights
 
-GenAI (Groq LLM) generates:
+🔹 End-to-end **AI decision intelligence** (not just prediction)  
+🔹 **Explainable churn logic** (transparent & interview-ready)  
+🔹 **Generative AI** for real-world retention messaging  
+🔹 Premium dark UI (purple-black gradient, gold typography)  
+🔹 Clean architecture (Logic • GenAI • UI separated)  
+🔹 Designed for **FAANG-level interviews & portfolios**  
+🔹 Cloud-deployable with **free LLM tier (Groq)**  
 
-Human-readable churn explanation
+---
 
-Strategic retention decision
+## 🧠 Problem Statement
 
-Professional customer-facing message
+Customer churn is one of the **largest revenue killers** in subscription-based businesses.
 
-Results are displayed in a clean, expandable dashboard
+Traditional ML models answer:
+> ❓ *Will the customer leave?*
 
-# ✨ Project Highlights
+But real businesses need:
+- ❓ **Why** is the customer at risk?  
+- ❓ **What** action should we take?  
+- ❓ **What** should we communicate to the customer?
 
-🔹 End-to-end AI decision intelligence (not just prediction)
-🔹 Explainable churn logic (transparent & interview-ready)
-🔹 Generative AI for real-world retention messaging
-🔹 Premium dark UI (purple-black gradient, gold typography)
-🔹 Clean architecture (logic, GenAI, UI separated)
-🔹 Designed for FAANG-level interviews & portfolios
-🔹 Cloud-deployable with free LLM tier (Groq)
+This project solves **all three** —  
+**Prediction + Explanation + Action** — using modern AI.
 
-# 🧠 Problem Statement
+---
 
-Customer churn is one of the largest revenue killers in subscription-based businesses.
+## 📊 Customer Input Features
 
-Traditional ML models predict whether a customer will leave —
-but business teams need more:
+The churn analysis is based on:
 
-• Why is the customer at risk?
-• What action should we take?
-• What should we say to the customer?
+• Customer tenure (months)  
+• Monthly charges  
+• Family association (partner / dependents)  
+• Engagement patterns (rule-based indicators)  
 
-This project solves all three — prediction + explanation + action — using modern AI.
+These features mirror **real telecom & SaaS business logic**.
 
-# 📊 Customer Input Features
+---
 
-The system evaluates churn risk using:
+## 🧠 AI & Decision Logic
 
-• Customer tenure (months)
-• Monthly charges
-• Family association (partner / dependents)
-• Engagement patterns (rule-based indicators)
+### 🔍 Explainable AI (No Black Box)
 
-These features are intentionally chosen to reflect real telecom & SaaS use cases.
+A transparent, rule-based engine calculates:
 
-# 🧠 AI & Decision Logic
+• Churn risk score *(0–1)*  
+• Risk category *(LOW / MEDIUM / HIGH)*  
+• Clear reasons influencing the risk  
 
-🔹 Explainable AI (No Black Box)
+This ensures **full explainability** — critical for business trust.
 
-A rule-based risk engine calculates:
+---
 
-• Churn risk score (0–1)
-• Risk category (LOW / MEDIUM / HIGH)
-• Clear reasons influencing the score
-
-This ensures full transparency — critical for business trust.
-
-🔹 Generative AI (Groq LLM)
+### 🤖 Generative AI (Groq LLM)
 
 A production-ready LLM generates:
 
-• Human-friendly churn explanation
-• Strategic retention recommendation
-• Polished customer communication
+• Human-friendly churn explanation  
+• Strategic retention decision  
+• Polished customer communication  
 
-All responses are dynamic, context-aware, and professional.
+All outputs are **dynamic, contextual, and professional**.
 
-# 🖥️ Tech Stack
-# 💻 Languages & Frameworks
+---
 
+## 🖥️ Tech Stack
 
+### 💻 Languages & Frameworks
+- Python  
+- Streamlit  
 
+### 🤖 AI & GenAI
+- Explainable AI (Rule-based logic)  
+- Groq LLM (LLaMA-3)  
 
-🤖 AI & GenAI
+### 🧠 Concepts
+- Explainable AI (XAI)  
+- Decision Intelligence  
+- Customer Analytics  
+- AI-driven UX  
 
+---
 
+## ▶️ Run Locally
 
+Clone and run the project locally:
 
-# 🧠 Concepts
-
-• Explainable AI (XAI)
-• Decision Intelligence
-• Customer Analytics
-• AI-driven UX
-
-# ▶️ Run Locally
-
-To run the project on your system:
-
+```bash
 git clone https://github.com/kamrankausher/ai-customer-retention-intelligence.git
 cd ai-customer-retention-intelligence
 
 python -m venv venv
-venv\Scripts\activate   
+venv\Scripts\activate
 
 pip install -r requirements.txt
-
 streamlit run app/ui/main_ui.py
+```
 
-# The app will be available at:
+---
 
 
-# ☁️ Deployment
+### The application will be available at:
 
-# 🚀 Platform: Streamlit Cloud
+Local URL: http://localhost:8501
 
-Deployment steps:
+---
 
-Push project to GitHub
+## ☁️ Deployment
 
-Connect repository on Streamlit Cloud
 
-Set app/ui/main_ui.py as entry file
+#### 🚀 Platform: Streamlit Cloud
 
-Add GROQ_API_KEY as a secret
+---
 
-Deploy — no paid services required
 
-# 🎯 Use Cases
+## Deployment Steps:
+
+1️⃣ Push project to GitHub
+2️⃣ Connect repository on Streamlit Cloud
+3️⃣ Set app/ui/main_ui.py as entry file
+4️⃣ Add GROQ_API_KEY as a secret
+5️⃣ Deploy — no paid services required
+
+---
+
+
+## 🎯 Use Cases
 
 ✔ Data Science & AI portfolios
 ✔ FAANG / Big-Tech interviews
@@ -150,7 +175,10 @@ Deploy — no paid services required
 ✔ Explainable AI case studies
 ✔ Resume & LinkedIn projects
 
-# 🔮 Future Enhancements
+---
+
+
+## 🔮 Future Enhancements
 
 • ML-based churn prediction model
 • Multi-industry templates (SaaS, Banking, OTT)
@@ -158,19 +186,28 @@ Deploy — no paid services required
 • Retention impact simulation
 • Admin analytics dashboard
 
-# 👤 Author
+
+---
+
+## 👤 Author
 
 Kamran Kausher
 🎓 Final-year B.Tech Computer Science student
 💡 Data Science | Machine Learning | Generative AI
 
-# 🌐 **Connect with me:**  
+---
+
+
+## 🌐 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-kausher-7585b0370)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/kamrankausher)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:kamrankausher@gmail.com)
 
+
 ---
 
-⭐ *This project focuses on practical ML engineering, clean deployment, and real-world usability rather than theoretical experimentation.*
+
+⭐ This project focuses on practical AI engineering, explainability, clean architecture, and real-world business usability — not just model accuracy.
+
 
 
