@@ -156,47 +156,40 @@ Local URL: http://localhost:8501
 ---
 
 
-## Deployment Steps:
+## 🚀 Deployment Steps
 
-1️⃣ Push project to GitHub
-2️⃣ Connect repository on Streamlit Cloud
-3️⃣ Set app/ui/main_ui.py as entry file
-4️⃣ Add GROQ_API_KEY as a secret
+1️⃣ Push project to GitHub  
+2️⃣ Connect repository on Streamlit Cloud  
+3️⃣ Set app/ui/main_ui.py as entry file  
+4️⃣ Add GROQ_API_KEY as a secret  
 5️⃣ Deploy — no paid services required
-
----
 
 
 ## 🎯 Use Cases
 
-✔ Data Science & AI portfolios
-✔ FAANG / Big-Tech interviews
-✔ Product-oriented AI demonstrations
-✔ Explainable AI case studies
+✔ Data Science & AI portfolios  
+✔ FAANG / Big-Tech interviews  
+✔ Product-oriented AI demonstrations  
+✔ Explainable AI case studies  
 ✔ Resume & LinkedIn projects
-
----
 
 
 ## 🔮 Future Enhancements
 
-• ML-based churn prediction model
-• Multi-industry templates (SaaS, Banking, OTT)
-• Customer segmentation
-• Retention impact simulation
+• ML-based churn prediction model  
+• Multi-industry templates (SaaS, Banking, OTT)  
+• Customer segmentation  
+• Retention impact simulation  
 • Admin analytics dashboard
 
 
----
-
 ## 👤 Author
 
-Kamran Kausher
-🎓 Final-year B.Tech Computer Science student
+Kamran Kausher  
+🎓 Final-year B.Tech Computer Science student  
 💡 Data Science | Machine Learning | Generative AI
 
 ---
-
 
 ## 🌐 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-kausher-7585b0370)  
@@ -208,6 +201,7 @@ Kamran Kausher
 
 
 ⭐ This project focuses on practical AI engineering, explainability, clean architecture, and real-world business usability — not just model accuracy.
+
 
 
 
