@@ -4,13 +4,20 @@ A production-grade AI web application that identifies customer churn risk, expla
 
 This project demonstrates how real businesses use AI — not just predictions, but reasoning, decisions, and customer communication — all inside a premium, recruiter-friendly dashboard.
 
-🚀 Live Application
+# 🚀 Live Application
 
-👉 (Deployment link will be added here after deployment)
+👉 https://ai-customer-retention-intelligence-rsnzxmesbuwsury9dguevx.streamlit.app/
 
-📸 Application Preview
-<p align="center"> <img src="screenshots/home.png" width="800"/> <br/><br/> <img src="screenshots/analysis.png" width="800"/> <br/><br/> <img src="screenshots/message.png" width="800"/> </p>
-🏗️ System Architecture
+## 📸 Application Preview
+
+<p align="center">
+  <img src="screenshots/home.png" width="700"/>
+  <img src="screenshots/analysis.png" width="700"/>
+  <img src="screenshots/message.png" width="700"/>
+</p>
+
+
+# 🏗️ System Architecture
 
 User enters customer details via a premium Streamlit UI
 
@@ -28,7 +35,7 @@ Professional customer-facing message
 
 Results are displayed in a clean, expandable dashboard
 
-✨ Project Highlights
+# ✨ Project Highlights
 
 🔹 End-to-end AI decision intelligence (not just prediction)
 🔹 Explainable churn logic (transparent & interview-ready)
@@ -38,7 +45,7 @@ Results are displayed in a clean, expandable dashboard
 🔹 Designed for FAANG-level interviews & portfolios
 🔹 Cloud-deployable with free LLM tier (Groq)
 
-🧠 Problem Statement
+# 🧠 Problem Statement
 
 Customer churn is one of the largest revenue killers in subscription-based businesses.
 
@@ -51,7 +58,7 @@ but business teams need more:
 
 This project solves all three — prediction + explanation + action — using modern AI.
 
-📊 Customer Input Features
+# 📊 Customer Input Features
 
 The system evaluates churn risk using:
 
@@ -62,7 +69,8 @@ The system evaluates churn risk using:
 
 These features are intentionally chosen to reflect real telecom & SaaS use cases.
 
-🧠 AI & Decision Logic
+# 🧠 AI & Decision Logic
+
 🔹 Explainable AI (No Black Box)
 
 A rule-based risk engine calculates:
@@ -83,8 +91,8 @@ A production-ready LLM generates:
 
 All responses are dynamic, context-aware, and professional.
 
-🖥️ Tech Stack
-💻 Languages & Frameworks
+# 🖥️ Tech Stack
+# 💻 Languages & Frameworks
 
 
 
@@ -94,14 +102,14 @@ All responses are dynamic, context-aware, and professional.
 
 
 
-🧠 Concepts
+# 🧠 Concepts
 
 • Explainable AI (XAI)
 • Decision Intelligence
 • Customer Analytics
 • AI-driven UX
 
-▶️ Run Locally
+# ▶️ Run Locally
 
 To run the project on your system:
 
@@ -109,19 +117,18 @@ git clone https://github.com/kamrankausher/ai-customer-retention-intelligence.gi
 cd ai-customer-retention-intelligence
 
 python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate   
 
 pip install -r requirements.txt
 
 streamlit run app/ui/main_ui.py
 
-The app will be available at:
+# The app will be available at:
 
 
-☁️ Deployment
+# ☁️ Deployment
 
-🚀 Platform: Streamlit Cloud
+# 🚀 Platform: Streamlit Cloud
 
 Deployment steps:
 
@@ -135,7 +142,7 @@ Add GROQ_API_KEY as a secret
 
 Deploy — no paid services required
 
-🎯 Use Cases
+# 🎯 Use Cases
 
 ✔ Data Science & AI portfolios
 ✔ FAANG / Big-Tech interviews
@@ -143,7 +150,7 @@ Deploy — no paid services required
 ✔ Explainable AI case studies
 ✔ Resume & LinkedIn projects
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 • ML-based churn prediction model
 • Multi-industry templates (SaaS, Banking, OTT)
@@ -151,13 +158,13 @@ Deploy — no paid services required
 • Retention impact simulation
 • Admin analytics dashboard
 
-👤 Author
+# 👤 Author
 
 Kamran Kausher
 🎓 Final-year B.Tech Computer Science student
 💡 Data Science | Machine Learning | Generative AI
 
-🌐 **Connect with me:**  
+# 🌐 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-kausher-7585b0370)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/kamrankausher)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:kamrankausher@gmail.com)
@@ -165,3 +172,4 @@ Kamran Kausher
 ---
 
 ⭐ *This project focuses on practical ML engineering, clean deployment, and real-world usability rather than theoretical experimentation.*
+
