@@ -33,7 +33,8 @@ This project demonstrates **real-world AI usage** — not just prediction, but *
 4️⃣ **Generative AI (Groq LLM)** produces:
    - Human-readable churn explanation  
    - Strategic retention recommendation  
-   - Professional customer-facing message  
+   - Professional customer-facing message
+
 5️⃣ Results are displayed in a **clean, expandable dashboard**
 
 ---
