@@ -132,10 +132,13 @@ Clone and run the project locally:
 ```bash
 git clone https://github.com/kamrankausher/ai-customer-retention-intelligence.git
 cd ai-customer-retention-intelligence
-
+```
+```
 python -m venv venv
 venv\Scripts\activate
 
+```
+```
 pip install -r requirements.txt
 streamlit run app/ui/main_ui.py
 ```
@@ -189,6 +192,7 @@ Local URL: http://localhost:8501
 Kamran Kausher  
 🎓 Final-year B.Tech Computer Science student  
 💡 Data Science | Machine Learning | Generative AI
+
 
 ---
 
