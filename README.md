@@ -190,7 +190,7 @@ Local URL: http://localhost:8501
 ## 👤 Author
 
 Kamran Kausher  
-🎓 Final-year B.Tech Computer Science student  
+🎓 Final-year B.Tech Computer Science Student  
 💡 Data Science | Machine Learning | Generative AI
 
 
