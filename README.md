@@ -3,7 +3,7 @@
 
 A **production-grade AI web application** that identifies customer churn risk, explains *why* a customer may leave, and recommends **personalized retention actions** using **Explainable AI logic** and **Generative AI (Groq LLM)**.
 
-This project demonstrates **real-world AI usage** — not just prediction, but **reasoning, decision-making, and customer communication** — all inside a **premium, recruiter-friendly dashboard**.
+This project demonstrates **real-world AI usage** — not just prediction, but **reasoning, decision-making, and customer communication**
 
 ---
 
