@@ -27,7 +27,7 @@ This project demonstrates **real-world AI usage** — not just prediction, but *
 
 ## 🏗️ System Architecture
 
-1️⃣ User enters customer details via a **premium Streamlit UI**  
+1️⃣ User enters customer details via a **Streamlit UI**  
 2️⃣ **Explainable AI engine** computes churn risk score  
 3️⃣ Risk is classified as **Low / Medium / High**  
 4️⃣ **Generative AI (Groq LLM)** produces:
@@ -42,11 +42,10 @@ This project demonstrates **real-world AI usage** — not just prediction, but *
 ## ✨ Project Highlights
 
 🔹 End-to-end **AI decision intelligence** (not just prediction)  
-🔹 **Explainable churn logic** (transparent & interview-ready)  
+🔹 **Explainable churn logic** (transparent) 
 🔹 **Generative AI** for real-world retention messaging  
 🔹 Premium dark UI (purple-black gradient, gold typography)  
-🔹 Clean architecture (Logic • GenAI • UI separated)  
-🔹 Designed for **FAANG-level interviews & portfolios**  
+🔹 Clean architecture (Logic • GenAI • UI separated)   
 🔹 Cloud-deployable with **free LLM tier (Groq)**  
 
 ---
