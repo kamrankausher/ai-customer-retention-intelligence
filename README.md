@@ -1,4 +1,4 @@
-# 🧠 AI Customer Retention Intelligence  
+# 🧠  Customer Retention Intelligence  
 ### Explainable AI + Generative AI Decision System
 
 A **production-grade AI web application** that identifies customer churn risk, explains *why* a customer may leave, and recommends **personalized retention actions** using **Explainable AI logic** and **Generative AI (Groq LLM)**.
